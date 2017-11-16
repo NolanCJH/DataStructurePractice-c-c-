@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <iostream>
 #include <vector>
 #include <stdlib.h>
@@ -44,5 +45,18 @@ int main(int argc, char *argv[])
   int k = N/2;
   cout<<"The number k is :"<<arr[k]<<endl;
   
+=======
+\*******************
+*Author: JiHui Chen
+*Date: 2017/11/11
+*******************/
+
+#include <iostream>
+
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+>>>>>>> origin/master
   return 0;
 }
